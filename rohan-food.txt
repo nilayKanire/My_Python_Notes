@@ -1,0 +1,6 @@
+Food schedule
+
+1. Egg
+2. meat
+3 . juice
+4. ['2021-07-01 18:57:29.547168']: shake
